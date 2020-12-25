@@ -1,4 +1,4 @@
-function diceGame2()
+function diceGame()
     % Input : none
     % Output : the probability that Peter wins
     % Example :
