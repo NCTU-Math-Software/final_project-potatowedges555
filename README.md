@@ -1,5 +1,8 @@
 # final_project-Dice Game_0713316施欣宜
 
+## Repo：<br>
+https://hackmd.io/lxYcFXkUSHaBJieDkv-FKQ?both
+
 ## Problem：<br>
 彼得有九個四面體骰子, 每個骰子上有數字 1–4；<br>
 科林有六個立方體骰子, 每個骰子上有數字 1–6.<br>
