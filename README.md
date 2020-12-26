@@ -1,5 +1,10 @@
 # Final_Project-Dice Game_0713316施欣宜
+## 題目<br>
+彼得有九個四面體骰子，每個骰子上有數字 1–4；<br>
+科林有六個立方體骰子，每個骰子上有數字 1–6。<br>
+兩個人各自丟自己的骰子，並算其總和，總和高者贏，若總和相同則為平局。<br>
+試問彼得贏的機率為何？請將數字四捨五入至小數點後第七位。<br>
 
-## [詳細說明](https://hackmd.io/@abby70403/rk54cbQaw "Final Project_0713316")：<br>
+## [詳細說明](https://hackmd.io/@abby70403/rk54cbQaw "Final Project_0713316")
 
 
